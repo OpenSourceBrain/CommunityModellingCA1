@@ -11,7 +11,7 @@ O/A | biophysical, single compartment | [Skinner 1999](http://www.ncbi.nlm.nih.g
 BC, OLM, AAC, BiC | biophysical, multicompartment | [Traub 1999](http://www.ncbi.nlm.nih.gov/pubmed/9920671)
 BC, OLM, AAC, BiC | biophysical, multicompartment | [Traub 2000](http://www.ncbi.nlm.nih.gov/pubmed/10704482)
 BC | biophysical, single compartment | [White&Kopell 2000](http://www.ncbi.nlm.nih.gov/pubmed/10869419)
-BC | biophysical, single compartment | [Bartos&Jonas 2002](https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=21329)
+BC | biophysical, single compartment | [Bartos 2002](https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=21329)
 O/A | biophysical, multicompartment | [Saraga&Skinner 2002](http://www.ncbi.nlm.nih.gov/pubmed/12123697)
 O/A | biophysical, single compartment | [Wang 2002](http://www.ncbi.nlm.nih.gov/pubmed/11826054)
 O-LM | biophysical, multicompartment | [Saraga 2003](http://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=28316)
