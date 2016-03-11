@@ -4,7 +4,6 @@
 
 Neuron types | Model type | Reference (PubMed) | ModelDB
 ---------- | ---------- | ---------- | ----------
-
 PC, BC, OLM, AAC, BiC | multicompartment | [Traub 1999](http://www.ncbi.nlm.nih.gov/pubmed/9920671) | -
 PC, BC, OLM, AAC, BiC | multicompartment | [Traub 2000](http://www.ncbi.nlm.nih.gov/pubmed/10704482) | -
 PC, BC, OLM | single compartment | [Hajos 2004](http://www.ncbi.nlm.nih.gov/pubmed/15183510) | [116567](https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=116567)
