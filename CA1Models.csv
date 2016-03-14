@@ -1,65 +1,82 @@
-# cell type, ancestor (000 if none), first author, year, URL (OSB/ModelDB/PubMed)
-BC, 000, Wang&Buzsáki, 1996, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=26997
-BC, 000, White, 1998, http://www.ncbi.nlm.nih.gov/pubmed/9580271
-O/A, 000, Skinner, 1999, http://www.ncbi.nlm.nih.gov/pubmed/10085354
-BC, 000, Traub, 1999, http://www.ncbi.nlm.nih.gov/pubmed/9920671
-OLM, 000, Traub, 1999, http://www.ncbi.nlm.nih.gov/pubmed/9920671
-AAC, 000, Traub, 1999, http://www.ncbi.nlm.nih.gov/pubmed/9920671
-BiC, 000, Traub, 1999, http://www.ncbi.nlm.nih.gov/pubmed/9920671
-BC, Traub1999, Traub, 2000, http://www.ncbi.nlm.nih.gov/pubmed/10704482
-OLM, Traub1999, Traub, 2000, http://www.ncbi.nlm.nih.gov/pubmed/10704482
-AAC, Traub1999, Traub, 2000, http://www.ncbi.nlm.nih.gov/pubmed/10704482
-BiC, Traub1999, Traub, 2000, http://www.ncbi.nlm.nih.gov/pubmed/10704482
-BC, White98, White, 2000, http://www.ncbi.nlm.nih.gov/pubmed/10869419
-BC, WB96, Bartos, 2002, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=21329
-O/A, Skinner1999, Saraga&Skinner, 2002, http://www.ncbi.nlm.nih.gov/pubmed/12123697
-O/A, 000, Wang, 2002, http://www.ncbi.nlm.nih.gov/pubmed/11826054
-OLM, 000, Saraga, 2003, http://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=28316
-BC, WB96, Hajos, 2003, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=116567
-OLM, Wang02, Hajos, 2003, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=116567
-BC, 000, Rotstein, 2005, http://www.ncbi.nlm.nih.gov/pubmed/15857967
-OLM, Saraga03, Rotstein, 2005, http://www.ncbi.nlm.nih.gov/pubmed/15857967
-BC, WB96, Saraga, 2006, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=114047
-BC, WB96, Orban, 2006, http://www.ncbi.nlm.nih.gov/pubmed/16899632
-OLM, Wang02, Orban, 2006, http://www.ncbi.nlm.nih.gov/pubmed/16899632
-OLM, 000, Lawrence, 2006, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=102288
-BC, WB96, Tort, 2007, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=138421
-OLM, Saraga2004, Tort, 2007, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=138421
-BC, Tort07, Stacey, 2009, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=135902
-BC, Saraga06, Zahid&Skinner, 2009, http://www.ncbi.nlm.nih.gov/pubmed/19171126
-BC, 000, Cutsuridis, 2010, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=123815
-OLM, Saraga03, Cutsuridis, 2010, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=123815
-AAC, 000, Cutsuridis, 2010, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=123815
-BiC, 000, Cutsuridis, 2010, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=123815
-LM/RAD, 000, Morin, 2010, http://www.ncbi.nlm.nih.gov/pubmed/20393060
-BC, 000, Bähner, 2011, http://www.ncbi.nlm.nih.gov/pubmed/21768381
-AAC, 000, Bähner, 2011, http://www.ncbi.nlm.nih.gov/pubmed/21768381
-BiC, 000, Bähner, 2011, http://www.ncbi.nlm.nih.gov/pubmed/21768381
-BC, Stacey2009, Stacey, 2011, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=135903
-BC, Tort07, Kopell, 2011, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=138421
-OLM, Tort07, Kopell, 2011, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=138421
-BC, Cutsuridis2010, Cutsuridis&Hasselmo, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22252986
-OLM, Cutsuridis2010, Cutsuridis&Hasselmo, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22252986
-AAC, Cutsuridis2010, Cutsuridis&Hasselmo, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22252986
-BiC, Cutsuridis2010, Cutsuridis&Hasselmo, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22252986
-Ivy, 000, Cutsuridis&Hasselmo, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22252986
-NGL, 000, Cutsuridis&Hasselmo, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22252986
-LM/RAD, Morin2010, Sirathan&Skinner, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22654751
-BC, 000, Traub, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22697272
-OLM, 000, Traub, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22697272
-AAC, 000, Traub, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22697272
-BiC, 000, Traub, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22697272
-BC, 000, Berzhanskaya, 2013, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=144589
-OLM, 000, Berzhanskaya, 2013, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=144589
-BC, 000, Ferguson, 2013, http://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=182843
-BC, WB96, Vladimirov, 2013, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=150446
-BC, Cutsuridis2010, Bianchi, 2014, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=151126
-OLM, Cutsuridis2010, Bianchi, 2014, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=151126
-AAC, Cutsuridis2010, Bianchi, 2014, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=151126
-BiC, Cutsuridis2010, Bianchi, 2014, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=151126
-BC, Hu2010, Chiovini, 2014,  http://www.ncbi.nlm.nih.gov/pubmed/24853946
-BC, 000, Lee, 2014, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=153280
-BC, Ferguson13, Ferguson, 2015, http://senselab.med.yale.edu/modelDB/showModel.cshtml?model=184545
-OLM, 000, Ferguson, 2015, http://senselab.med.yale.edu/modelDB/showModel.cshtml?model=184545
-OLM, 000, Ferguson, 2015, http://senselab.med.yale.edu/modelDB/showModel.cshtml?model=184545
-OLM, 000, Ferguson, 2015, http://senselab.med.yale.edu/modelDB/showModel.cshtml?model=184545
+ID, cell type, ancestor, first author, year, URL (OSB/ModelDB/PubMed), comment
+i01, BC, 00, Wang, 1996, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=26997, Wang & Buzsáki 1996
+i02, BC, 00, White, 1998, http://www.ncbi.nlm.nih.gov/pubmed/9580271, White 1998
+i03, O/A, 00, Skinner, 1999, http://www.ncbi.nlm.nih.gov/pubmed/10085354, Skinner et al. 1999
+n01, PC, ?, Traub, 1999, http://www.ncbi.nlm.nih.gov/pubmed/9920671, Traub et al. 1999
+n02, BC, 00, Traub, 1999, http://www.ncbi.nlm.nih.gov/pubmed/9920671, Traub et al. 1999
+n03, OLM, 00, Traub, 1999, http://www.ncbi.nlm.nih.gov/pubmed/9920671, Traub et al. 1999
+n04, AAC, 00, Traub, 1999, http://www.ncbi.nlm.nih.gov/pubmed/9920671, Traub et al. 1999
+n05, BiC, 00, Traub, 1999, http://www.ncbi.nlm.nih.gov/pubmed/9920671, Traub et al. 1999
+n06, PC, ?, Traub, 2000, http://www.ncbi.nlm.nih.gov/pubmed/10704482, Traub & Bibbig 2000
+n07, BC, n02, Traub, 2000, http://www.ncbi.nlm.nih.gov/pubmed/10704482, Traub & Bibbig 2000
+n08, OLM, n03, Traub, 2000, http://www.ncbi.nlm.nih.gov/pubmed/10704482, Traub & Bibbig 2000
+n09, AAC, n04, Traub, 2000, http://www.ncbi.nlm.nih.gov/pubmed/10704482, Traub & Bibbig 2000
+n10, BiC, n04, Traub, 2000, http://www.ncbi.nlm.nih.gov/pubmed/10704482, Traub & Bibbig 2000
+i04, BC, i02, White, 2000, http://www.ncbi.nlm.nih.gov/pubmed/10869419, White et al. 2000
+i05, BC, i01, Bartos, 2002, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=21329, Bartos et al. 2002
+i06, O/A, i03, Saraga, 2002, http://www.ncbi.nlm.nih.gov/pubmed/12123697, Saraga & Skinner 2002
+i07, O/A, 00, Wang, 2002, http://www.ncbi.nlm.nih.gov/pubmed/11826054, Wang 2002
+i08, OLM, 00, Saraga, 2003, http://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=28316, Saraga et al. 2003
+n11, PC, ?, Hajos, 2004, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=116567, Hajós et al. 2004
+n12, BC, i01, Hajos, 2003, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=116567, Hajós et al. 2004
+n13, OLM, i07, Hajos, 2003, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=116567, Hajós et al. 2004
+i09, BC, 00, Rotstein, 2005, http://www.ncbi.nlm.nih.gov/pubmed/15857967, Rotstein et al. 2005
+i10, OLM, i08, Rotstein, 2005, http://www.ncbi.nlm.nih.gov/pubmed/15857967, Rotstein et al. 2005
+i11, BC, i01, Saraga, 2006, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=114047, Saraga et al. 2006
+n14, PC, ?, Orbán, 2006, http://www.ncbi.nlm.nih.gov/pubmed/16899632, Orbán et al. 2006
+n15, BC, i01, Orban, 2006, http://www.ncbi.nlm.nih.gov/pubmed/16899632, Orbán et al. 2006
+n16, OLM, i07, Orban, 2006, http://www.ncbi.nlm.nih.gov/pubmed/16899632, Orbán et al. 2006
+i12, OLM, 00, Lawrence, 2006, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=102288, Lawrence et al. 2006
+n17, PC, ?, Tort, 2007, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=138421, Tort et al. 2007
+n18, BC, i01, Tort, 2007, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=138421, Tort et al. 2007
+n19, OLM, i08, Tort, 2007, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=138421, Tort et al. 2007
+n20, PC, ?, Stacey, 2009, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=135902, Stacey et al. 2009
+n21, BC, n18, Stacey, 2009, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=135902, Stacey et al. 2009
+i13, BC, i11, Zahid, 2009, http://www.ncbi.nlm.nih.gov/pubmed/19171126, Zahid & Skinner 2009
+n21, PC, ?, Cutsuridis, 2010, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=123815, Cutsuridis et al. 2010
+n22, BC, 00, Cutsuridis, 2010, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=123815, Cutsuridis et al. 2010
+n23, OLM, i08, Cutsuridis, 2010, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=123815, Cutsuridis et al. 2010
+n24, AAC, 00, Cutsuridis, 2010, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=123815, Cutsuridis et al. 2010
+n25, BiC, 00, Cutsuridis, 2010, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=123815, Cutsuridis et al. 2010
+i14, LM/RAD, 00, Morin, 2010, http://www.ncbi.nlm.nih.gov/pubmed/20393060, Morin et al. 2010
+n26, PC, ?, Bähner, 2011, http://www.ncbi.nlm.nih.gov/pubmed/21768381, Bähner et al. 2011
+n27, BC, 00, Bähner, 2011, http://www.ncbi.nlm.nih.gov/pubmed/21768381, Bähner et al. 2011
+n28, AAC, 00, Bähner, 2011, http://www.ncbi.nlm.nih.gov/pubmed/21768381, Bähner et al. 2011
+n29, BiC, 00, Bähner, 2011, http://www.ncbi.nlm.nih.gov/pubmed/21768381, Bähner et al. 2011
+n30, PC, ?, Kopell, 2011, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=138421, Kopell et al. 2011
+n31, BC, n18, Kopell, 2011, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=138421, Kopell et al. 2011
+n32, OLM, n19, Kopell, 2011, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=138421, Kopell et al. 2011
+n33, PC, ?, Stacey, 2011, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=135903, Stacey et al. 2011
+n34, BC, n21, Stacey, 2011, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=135903, Stacey et al. 2011
+n35, PC, ?, Cutsuridis, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22252986, Cutsuridis & Hasselmo 2012
+n36, BC, n22, Cutsuridis, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22252986, Cutsuridis & Hasselmo 2012
+n37, OLM, n23, Cutsuridis, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22252986, Cutsuridis & Hasselmo 2012
+n38, AAC, n24, Cutsuridis, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22252986 Cutsuridis & Hasselmo 2012
+n39, BiC, n25, Cutsuridis, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22252986, Cutsuridis & Hasselmo 2012
+n40, Ivy, 00, Cutsuridis, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22252986, Cutsuridis & Hasselmo 2012
+n41, NGL, 00, Cutsuridis, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22252986, Cutsuridis & Hasselmo 2012
+i15, LM/RAD, i14, Sirathan, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22654751, Sirathan & Skinner 2012
+n42, PC, ?, Traub, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22697272, Traub et al. 2012
+n43, BC, 00, Traub, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22697272, Traub et al. 2012
+n44, OLM, 00, Traub, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22697272, Traub et al. 2012
+n45, AAC, 00, Traub, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22697272, Traub et al. 2012
+n46, BiC, 00, Traub, 2012, http://www.ncbi.nlm.nih.gov/pubmed/22697272, Traub et al. 2012
+n47, PC, ?, Berzhanskaya, 2013, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=144589, Berzhanskaya et al. 2013
+n48, BC, 00, Berzhanskaya, 2013, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=144589, Berzhanskaya et al. 2013
+n49, OLM, 00, Berzhanskaya, 2013, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=144589, Berzhanskaya et al. 2013
+i16, BC, 00, Ferguson, 2013, http://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=182843, Ferguson et al. 2013
+n50, PC, ?, Vladimirov, 2013, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=150446, Vladimirov et al. 2013
+n51, BC, i01, Vladimirov, 2013, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=150446, Vladimirov et al. 2013
+n52, PC, ?, Bianchi, 2014, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=151126, Bianchi et al. 2014
+n53, BC, n22, Bianchi, 2014, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=151126, Bianchi et al. 2014
+n54, OLM, n23, Bianchi, 2014, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=151126, Bianchi et al. 2014
+n55, AAC, n24, Bianchi, 2014, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=151126, Bianchi et al. 2014
+n56, BiC, n25, Bianchi, 2014, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=151126, Bianchi et al. 2014
+i17, BC, 00, Chiovini, 2014,  http://www.ncbi.nlm.nih.gov/pubmed/24853946, Chiovini et al. 2014
+n57, PC, ?, Lee, 2014, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=153280, Lee et al. 2014
+n58, BC, 00, Lee, 2014, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=153280, Lee et al. 2014
+n59, PC, ?, Ferguson, 2015, http://senselab.med.yale.edu/modelDB/showModel.cshtml?model=184545, Ferguson et al. 2015
+n60, BC, i16, Ferguson, 2015, http://senselab.med.yale.edu/modelDB/showModel.cshtml?model=184545, Ferguson et al. 2015
+n61, OLM, 00, Ferguson, 2015, http://senselab.med.yale.edu/modelDB/showModel.cshtml?model=184545, Ferguson et al. 2015
+n62, AAC, i16, Ferguson, 2015, http://senselab.med.yale.edu/modelDB/showModel.cshtml?model=184545, Ferguson et al. 2015
+n63, BiC, i16, Ferguson, 2015, http://senselab.med.yale.edu/modelDB/showModel.cshtml?model=184545, Ferguson et al. 2015
