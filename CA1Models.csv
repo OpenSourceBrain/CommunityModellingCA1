@@ -21,8 +21,8 @@ x, PC, Migliore99, Poolos, 2002, https://senselab.med.yale.edu/modeldb/showModel
 i06, O/A, i03, Saraga, 2002, http://www.ncbi.nlm.nih.gov/pubmed/12123697, Saraga & Skinner 2002
 i07, O/A, 00, Wang, 2002, http://www.ncbi.nlm.nih.gov/pubmed/11826054, Wang 2002
 x, PC, Migliore99, Watanabe, 2002, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=7386, Watanabe et al. 2002
-n11 PC, 00, Olufsen, 2003, http://www.ncbi.nlm.nih.gov/pubmed/12435923, Olufsen et al. 2003
-n12 BC, 00, Olufsen, 2003, http://www.ncbi.nlm.nih.gov/pubmed/12435923, Olufsen et al. 2003
+n11, PC, 00, Olufsen, 2003, http://www.ncbi.nlm.nih.gov/pubmed/12435923, Olufsen et al. 2003
+n12, BC, 00, Olufsen, 2003, http://www.ncbi.nlm.nih.gov/pubmed/12435923, Olufsen et al. 2003
 x, PC, 00, Poirazi, 2003, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=20212, Poirazi et al. 2003
 i08, OLM, 00, Saraga, 2003, http://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=28316, Saraga et al. 2003
 n13, PC, ?Warman94, Hajos, 2004, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=116567, Hajós et al. 2004
