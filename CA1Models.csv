@@ -1,4 +1,4 @@
-# ID,cell type, ancestor (000 if none), first author, year, URL (OSB/ModelDB/PubMed)
+# cell type, ancestor (000 if none), first author, year, URL (OSB/ModelDB/PubMed)
 BC, 000, Wang&Buzsáki, 1996, https://senselab.med.yale.edu/modeldb/showModel.cshtml?model=26997
 BC, 000, White, 1998, http://www.ncbi.nlm.nih.gov/pubmed/9580271
 O/A, 000, Skinner, 1999, http://www.ncbi.nlm.nih.gov/pubmed/10085354
