@@ -19,3 +19,5 @@ This initiative resulted from a [Human Brain Project](http://humanbrainproject.e
 [List of pyramidal cell models](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/CA1_pyradmidalCells.md) with references and ModelDB IDs (if existing)
 
 ![](https://raw.githubusercontent.com/OpenSourceBrain/CommunityModellingCA1/master/ca1_pcs.jpg)
+
+> note: based on [CA1model.csv](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/CA1Models.csv) a script (improved version of [Parse.py](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/Parse.py) or javascript) should reproduce the figures (CA1_interneurons.jpg, CA1_PCs.jpg)
