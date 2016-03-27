@@ -8,7 +8,7 @@ This initiative resulted from a [Human Brain Project](http://humanbrainproject.e
 
 #### Interneuron models
 
-[Interneuron models](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/CA1_interneurons.md)
+[List of interneuron models](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/CA1_interneurons.md) with references and ModelDB IDs (if existing)
 
 ![](https://raw.githubusercontent.com/OpenSourceBrain/CommunityModellingCA1/master/ca1_interneurons.jpg)
 
@@ -16,6 +16,6 @@ This initiative resulted from a [Human Brain Project](http://humanbrainproject.e
 
 #### Pyramidal cell models
 
-[Pyramidal cell models](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/CA1_pyradmidalCells.md)
+[List of pyramidal cell models](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/CA1_pyradmidalCells.md) with references and ModelDB IDs (if existing)
 
 ![](https://raw.githubusercontent.com/OpenSourceBrain/CommunityModellingCA1/master/ca1_pcs.jpg)
