@@ -21,7 +21,7 @@ digraph %s {
     
     entries = {}
     all_years = []
-    max_lines = 15 # useful for testing
+    max_lines = 35 # useful for testing
     
     for line in open(csv_file):
         if not line.startswith(ID) and max_lines>0:
