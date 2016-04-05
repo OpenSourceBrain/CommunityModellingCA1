@@ -20,4 +20,6 @@ This initiative resulted from a [Human Brain Project](http://humanbrainproject.e
 
 ![](https://raw.githubusercontent.com/OpenSourceBrain/CommunityModellingCA1/master/ca1_pcs.jpg)
 
-> note: based on [CA1model.csv](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/CA1Models.csv) a script (improved version of [Parse.py](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/Parse.py) or javascript) should reproduce the figures (CA1_interneurons.jpg, CA1_PCs.jpg)
+Note: based on [CA1model.csv](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/CA1Models.csv) a script (improved version of [Parse.py](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/Parse.py) or javascript) should reproduce the figures (CA1_interneurons.jpg, CA1_PCs.jpg). See issue #4.
+
+**Is there a model missing??** Please [open an issue](https://github.com/OpenSourceBrain/CommunityModellingCA1/issues/new) and let us know!
