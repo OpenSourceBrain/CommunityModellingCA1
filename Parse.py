@@ -19,7 +19,8 @@ if __name__ == '__main__':
     all_celltypes = []
     all_years = []
     output_mode = 'celltypes' #celltypes or years
-    max_lines = 148 # useful for testing
+    #output_mode = 'years'
+    max_lines = 448 # useful for testing
     
     for line in open(csv_file):
         if not line.startswith(ID) and max_lines>0:

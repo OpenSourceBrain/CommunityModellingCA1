@@ -20,6 +20,24 @@ This initiative resulted from a [Human Brain Project](http://humanbrainproject.e
 
 ![](https://raw.githubusercontent.com/OpenSourceBrain/CommunityModellingCA1/master/ca1_pcs.jpg)
 
-Note: based on [CA1model.csv](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/CA1Models.csv) a script (improved version of [Parse.py](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/Parse.py) or javascript) should reproduce the figures (CA1_interneurons.jpg, CA1_PCs.jpg). See issue #4.
 
-**Is there a model missing??** Please [open an issue](https://github.com/OpenSourceBrain/CommunityModellingCA1/issues/new) and let us know!
+-----------------------------------------------------------------------------
+
+#### CSV file of all models
+
+[CA1model.csv](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/CA1Models.csv) contains a database of all known published CA1 cell models. 
+
+**Is there a model missing?? Please [open an issue](https://github.com/OpenSourceBrain/CommunityModellingCA1/issues/new) and let us know!**
+
+We have created a script ([Parse.py](https://github.com/OpenSourceBrain/CommunityModellingCA1/blob/master/Parse.py)) which will eventually be able to generate the above 
+figures automatically. See [issue #4](https://github.com/OpenSourceBrain/CommunityModellingCA1/issues/4) for progress with this.
+
+For now, the figures produced are:
+
+*Interneurons:*
+
+![](CA1Models_IN.png)
+
+*Pyramidal cell models:*
+
+![](CA1Models_PC.png)
