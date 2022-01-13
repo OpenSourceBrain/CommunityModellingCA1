@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>CA1 Models Ancestry</title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="author" content="" />
+        <link rel="shortcut icon" href="">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename = 'styles.css') }} " />
+        <!-- Load d3 -->
+        <script src="{{ url_for('static', filename = 'd3.v4.min.js') }}"></script>
+        <!-- Load dataset -->
+        <script>
+            let my_url = './CA1Models.csv';
+        </script>
+    </head>
+
+    <body>
+            <div class="container">
+                <!-- Draw title -->
+               <div class="header">
+                   <div class="flex_container">
+                        <h1 class=""> CA1 Models Ancestry </h1> <span id="paperTitle"> Paper Title</span>
+                   </div>
+                </div>
+                <!-- Legend -->
+                <div class="svg-container-legend">
+                    <svg  id="legend" class="svg-content legend" width="200px" height="250px" viewBox="0 0 300 10">
+                    </svg>
+                </div>
+                <!-- Tree Graph -->
+                <div class="svg-container">
+                    <svg  id="data" class="svg-content" width="5793px" height="1122px" viewBox="0 0 4793 1922">
+                    </svg>
+                </div>
+            </div>
+    </body>
+    <!-- Draw Graph via d3 -->
+    <script src="{{ url_for('static', filename = 'drawGraph.js') }} "></script>
+</html>

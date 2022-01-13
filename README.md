@@ -41,3 +41,14 @@ For now, the figures produced are:
 *Pyramidal cell models:*
 
 ![](CA1Models_PC.png)
+
+-----------------------------------------------------------------------------
+
+#### Running the Interactive Visualization
+
+
+Within the viz directory run the command: 'python3 main.py'
+
+To see it live, navigate to  [http://127.0.0.1:5000/]( http://127.0.0.1:5000/ )
+
+![](D3VIZSAMPLE.png)
